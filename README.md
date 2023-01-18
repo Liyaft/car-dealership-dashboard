@@ -1,4 +1,4 @@
-# car-dealership-dashboard 
+# Analyzing Car Dealership Inventory
 Dashboard depicting key information on a car dealership's inventory. 
 
 # Objective  
